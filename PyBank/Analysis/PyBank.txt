@@ -1,0 +1,6 @@
+Financial Analysis
+--------------------------------
+Total: ,"$38,382,578"
+Average Change: ,"$-2,288.20"
+Greatest increase in profits: ,Feb-2012,"($1,926,159)"
+Greatest decrease in profits: ,Sep-2013,"($-2,196,167)"
